@@ -1,14 +1,44 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700');
 
 
-header{
-    margin: 0;
+
+/*>>>>>Colours<<<<<<*/
+
+.ui-menu-color{
+    background-color: #ffffff;
     padding: 0;
+    margin: 0;
     border: 0;
 }
 
+/*>>>>>Colours<<<<<<*/
+
+
+/*>>>>>Colours<<<<<<*/
+
+
+
+/*>>>>>Colours<<<<<<*/
+
+
+
+/*>>>>>Colours<<<<<<*/
+
+
 body{
-    font-family: Rubik, sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+.logo {
+    background: url("../images/murfit-logo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    margin: 3px;
 }
 
 
