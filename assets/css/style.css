@@ -39,20 +39,23 @@ header{
 }
 
 #navbar li {
-    font-size: 14px;
-    padding: 0;
-    min-height: 100px;
-}
-
-.nav-item{
     height: 100px;
     text-align: center;
     text-transform: uppercase;
 }
 
-.nav-item a span {
-    padding-bottom: 40px;
+
+#navbar li a {
+    font-size: 14px;
+    min-height: 100px;
+    display: inline-block;
+    padding: 35px;
+    color: #F27938;
 }
+
+
+
+
 
 /*>>>>>Colours<<<<<<*/
 
