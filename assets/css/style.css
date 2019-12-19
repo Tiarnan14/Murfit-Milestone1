@@ -22,6 +22,7 @@ header {
 
 .heading{
     margin-left: 0px;
+    max-height: 130px;
 }
 
 .logo {
