@@ -7,3 +7,5 @@ Welcome Tiarnan14,
 We have preinstalled all of the tools you need to get started.
 
 Happy coding!
+
+Photo by Geert Pieters on Unsplash - landing page image
